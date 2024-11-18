@@ -1,1 +1,1 @@
-[README.md](https://github.com/Katswcode/IoT-Light-Control-Project/files/14059285/README.md)
+I just finished this project due to some permissions that I must have to make this project and it has not sense to get those permissions.
